@@ -1,0 +1,185 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "doufu",
+      "score": null,
+      "points": [
+        [
+          77.81249999999999,
+          62.13541666666664
+        ],
+        [
+          163.75,
+          62.13541666666664
+        ],
+        [
+          163.75,
+          143.38541666666663
+        ],
+        [
+          77.81249999999999,
+          143.38541666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "zhurou",
+      "score": null,
+      "points": [
+        [
+          115.31249999999999,
+          239.21875
+        ],
+        [
+          192.91666666666669,
+          239.21875
+        ],
+        [
+          192.91666666666669,
+          284.01041666666663
+        ],
+        [
+          115.31249999999999,
+          284.01041666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "xihongshi",
+      "score": null,
+      "points": [
+        [
+          327.8125,
+          72.55208333333331
+        ],
+        [
+          418.95833333333337,
+          72.55208333333331
+        ],
+        [
+          418.95833333333337,
+          136.09375
+        ],
+        [
+          327.8125,
+          136.09375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "niurou",
+      "score": null,
+      "points": [
+        [
+          330.9375,
+          243.90625
+        ],
+        [
+          408.02083333333337,
+          243.90625
+        ],
+        [
+          408.02083333333337,
+          294.94791666666663
+        ],
+        [
+          330.9375,
+          294.94791666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "qincai",
+      "score": null,
+      "points": [
+        [
+          524.1666666666667,
+          239.21875
+        ],
+        [
+          606.9791666666667,
+          239.21875
+        ],
+        [
+          606.9791666666667,
+          304.84375
+        ],
+        [
+          524.1666666666667,
+          304.84375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "qingjiao",
+      "score": null,
+      "points": [
+        [
+          572.0833333333334,
+          62.13541666666664
+        ],
+        [
+          638.75,
+          62.13541666666664
+        ],
+        [
+          638.75,
+          137.13541666666663
+        ],
+        [
+          572.0833333333334,
+          137.13541666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "0053.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "description": ""
+}

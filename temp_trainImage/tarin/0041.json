@@ -1,0 +1,69 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "zhurou",
+      "score": null,
+      "points": [
+        [
+          221.5625,
+          120.98958333333331
+        ],
+        [
+          297.08333333333337,
+          120.98958333333331
+        ],
+        [
+          297.08333333333337,
+          170.46875
+        ],
+        [
+          221.5625,
+          170.46875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "niurou",
+      "score": null,
+      "points": [
+        [
+          446.5625,
+          117.86458333333331
+        ],
+        [
+          517.9166666666667,
+          117.86458333333331
+        ],
+        [
+          517.9166666666667,
+          176.71875
+        ],
+        [
+          446.5625,
+          176.71875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "0041.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "description": ""
+}

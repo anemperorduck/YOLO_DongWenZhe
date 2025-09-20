@@ -1,0 +1,127 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "tudou",
+      "score": null,
+      "points": [
+        [
+          194.47916666666669,
+          66.30208333333331
+        ],
+        [
+          282.5,
+          66.30208333333331
+        ],
+        [
+          282.5,
+          163.69791666666663
+        ],
+        [
+          194.47916666666669,
+          163.69791666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "jidan",
+      "score": null,
+      "points": [
+        [
+          218.95833333333337,
+          279.84375
+        ],
+        [
+          288.2291666666667,
+          279.84375
+        ],
+        [
+          288.2291666666667,
+          330.3645833333333
+        ],
+        [
+          218.95833333333337,
+          330.3645833333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "xianggu",
+      "score": null,
+      "points": [
+        [
+          460.10416666666674,
+          272.5520833333333
+        ],
+        [
+          538.75,
+          272.5520833333333
+        ],
+        [
+          538.75,
+          333.4895833333333
+        ],
+        [
+          460.10416666666674,
+          333.4895833333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "xilanhua",
+      "score": null,
+      "points": [
+        [
+          487.70833333333337,
+          57.44791666666664
+        ],
+        [
+          586.6666666666667,
+          57.44791666666664
+        ],
+        [
+          586.6666666666667,
+          161.09375
+        ],
+        [
+          487.70833333333337,
+          161.09375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "0055.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640,
+  "description": ""
+}

@@ -1,0 +1,6 @@
+path: D:\A_YOLO\datasets\ZhinengZhongduan
+train: D:\A_YOLO\datasets\ZhinengZhongduan\images\train
+val: D:\A_YOLO\datasets\ZhinengZhongduan\images\val
+test: D:\A_YOLO\datasets\ZhinengZhongduan\images\test
+nc: 12
+name: ['tudou','xilanhua','jidan','xianggu','doufu','zhurou','xihongshi','niurou','qingjiao','qincai','qingcai','doujiao']

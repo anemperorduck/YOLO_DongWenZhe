@@ -1,0 +1,15 @@
+path: /home/anemperorduck/yolov5/datasets/pai_fx
+  # dataset root dir
+train: /home/anemperorduck/yolov5/datasets/pai_fx/images/train # train images (relative to 'path') 128 images
+val: /home/anemperorduck/yolov5/datasets/pai_fx/images/val # val images (relative to 'path') 128 images
+test: # test images (optional)
+
+# Classes
+names:
+  0: card
+  1: left
+  2: right
+  3: left_1
+  4: right_1
+  5: Signal_towers
+  6: Cartoon_characters

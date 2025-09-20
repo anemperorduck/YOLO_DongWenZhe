@@ -1,0 +1,126 @@
+{
+  "version": "3.0.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "tudou",
+      "score": null,
+      "points": [
+        [
+          323.64583333333337,
+          54.32291666666664
+        ],
+        [
+          393.95833333333337,
+          54.32291666666664
+        ],
+        [
+          393.95833333333337,
+          136.61458333333331
+        ],
+        [
+          323.64583333333337,
+          136.61458333333331
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "jidan",
+      "score": null,
+      "points": [
+        [
+          317.9166666666667,
+          230.36458333333331
+        ],
+        [
+          378.33333333333337,
+          230.36458333333331
+        ],
+        [
+          378.33333333333337,
+          276.19791666666663
+        ],
+        [
+          317.9166666666667,
+          276.19791666666663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "xilanhua",
+      "score": null,
+      "points": [
+        [
+          564.2708333333334,
+          49.114583333333314
+        ],
+        [
+          639.0,
+          49.114583333333314
+        ],
+        [
+          639.0,
+          137
+        ],
+        [
+          564.2708333333334,
+          137
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "xianggu",
+      "score": null,
+      "points": [
+        [
+          526.25,
+          234.53125
+        ],
+        [
+          598.6458333333334,
+          234.53125
+        ],
+        [
+          598.6458333333334,
+          292.8645833333333
+        ],
+        [
+          526.25,
+          292.8645833333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "0030.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}
